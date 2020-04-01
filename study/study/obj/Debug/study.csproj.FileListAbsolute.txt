@@ -1,0 +1,6 @@
+/Users/macuser/Projects/study/study/study/bin/Debug/study.exe
+/Users/macuser/Projects/study/study/study/bin/Debug/study.pdb
+/Users/macuser/Projects/study/study/study/obj/Debug/study.csprojAssemblyReference.cache
+/Users/macuser/Projects/study/study/study/obj/Debug/study.csproj.CoreCompileInputs.cache
+/Users/macuser/Projects/study/study/study/obj/Debug/study.exe
+/Users/macuser/Projects/study/study/study/obj/Debug/study.pdb
