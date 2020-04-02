@@ -10,6 +10,7 @@ namespace study
             Console.WriteLine("WriteLine1 master branch 1.");
             Console.WriteLine("WriteLine2 master branch 2.");
             Console.WriteLine("WriteLine3 master branch 3.");
+            Console.WriteLine("Конец");
         }
     }
 }
